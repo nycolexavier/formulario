@@ -26,8 +26,10 @@ Nesse repositório guardo todas as anotações, materiais e as resoluções dos 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- [Discover](https://app.rocketseat.com.br/discover)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Licença
 
@@ -45,5 +47,3 @@ MIT License ©
 Feito com ❤️ por Nycole Xavier 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-NycoleXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nycole-xavier-641271202/)](https://www.linkedin.com/in/nycole-xavier-641271202/) 
-
-(repositório em desenvolvimento)
